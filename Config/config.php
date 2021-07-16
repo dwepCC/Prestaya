@@ -1,5 +1,5 @@
 <?php
-//varibles de coneccion
+
     define("HOST",'locaLhost');
     define("DB_USER",'root');
     define("DB_PASS",'');
